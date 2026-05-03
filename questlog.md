@@ -11,3 +11,7 @@ Schließlich erreichte Markus einen versteckten Raum im Dungeon, in dem ein myst
 Erfrischt und gestärkt machte sich Markus auf den Weg, um die letzte Etappe seiner Quest zu erfüllen. Er kämpfte gegen eine Horde von untoten Kreaturen und bestand Prüfungen, die kaum ein anderer Held überlebt hätte.
 
 Tief unter dem Dungeon entdeckte Markus eine zerbrochene Steintafel, deren Inschrift den Weg zum Amulett verriet, doch bevor er sie entziffern konnte, hallte ein unheimliches Knurren durch die Finsternis.
+
+Markus hob sein Schwert, trat vorsichtig einen Schritt zurück und erkannte im flackernden Fackellicht die Umrisse einer Bestie, die zwischen ihm und der Steintafel lauerte.
+Die Bestie stieß ein tiefes Brüllen aus, doch Markus fasste neuen Mut und bereitete sich darauf vor, die Kreatur zu besiegen, um endlich die Inschrift lesen zu können.
+Der Kampf war beendet, und Markus trat schwer atmend zur zerbrochenen Steintafel, um endlich ihre Inschrift zu lesen.
